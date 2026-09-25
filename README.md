@@ -1,7 +1,7 @@
 # Home-lab-GUI/home-Assistant 
 Personal home lab assistant for Network Control, Device Management and Server Management.
 
-#Project Planning
+Project Planning
 
   Server Monitoring
     Server health
